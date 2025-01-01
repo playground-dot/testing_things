@@ -48,5 +48,14 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fonts/FontAwesome.ttf</string>
+		<string>Fonts/MaterialIcons.ttf</string>
+		<string>Fonts/Entypo.ttf</string>
+		<string>Fonts/Ionicons.ttf</string>
+		<string>Fonts/Octicons.ttf</string>
+		<string>Fonts/Zocial.ttf</string>
+	</array>
 </dict>
 </plist>
